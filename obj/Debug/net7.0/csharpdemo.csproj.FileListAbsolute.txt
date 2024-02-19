@@ -1,0 +1,14 @@
+C:\Users\vasanthancad01\Desktop\CADBATCH\project\c#\csharpdemo\bin\Debug\net7.0\csharpdemo.exe
+C:\Users\vasanthancad01\Desktop\CADBATCH\project\c#\csharpdemo\bin\Debug\net7.0\csharpdemo.deps.json
+C:\Users\vasanthancad01\Desktop\CADBATCH\project\c#\csharpdemo\bin\Debug\net7.0\csharpdemo.runtimeconfig.json
+C:\Users\vasanthancad01\Desktop\CADBATCH\project\c#\csharpdemo\bin\Debug\net7.0\csharpdemo.dll
+C:\Users\vasanthancad01\Desktop\CADBATCH\project\c#\csharpdemo\bin\Debug\net7.0\csharpdemo.pdb
+C:\Users\vasanthancad01\Desktop\CADBATCH\project\c#\csharpdemo\obj\Debug\net7.0\csharpdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasanthancad01\Desktop\CADBATCH\project\c#\csharpdemo\obj\Debug\net7.0\csharpdemo.AssemblyInfoInputs.cache
+C:\Users\vasanthancad01\Desktop\CADBATCH\project\c#\csharpdemo\obj\Debug\net7.0\csharpdemo.AssemblyInfo.cs
+C:\Users\vasanthancad01\Desktop\CADBATCH\project\c#\csharpdemo\obj\Debug\net7.0\csharpdemo.csproj.CoreCompileInputs.cache
+C:\Users\vasanthancad01\Desktop\CADBATCH\project\c#\csharpdemo\obj\Debug\net7.0\csharpdemo.dll
+C:\Users\vasanthancad01\Desktop\CADBATCH\project\c#\csharpdemo\obj\Debug\net7.0\refint\csharpdemo.dll
+C:\Users\vasanthancad01\Desktop\CADBATCH\project\c#\csharpdemo\obj\Debug\net7.0\csharpdemo.pdb
+C:\Users\vasanthancad01\Desktop\CADBATCH\project\c#\csharpdemo\obj\Debug\net7.0\csharpdemo.genruntimeconfig.cache
+C:\Users\vasanthancad01\Desktop\CADBATCH\project\c#\csharpdemo\obj\Debug\net7.0\ref\csharpdemo.dll
